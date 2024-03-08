@@ -6,6 +6,9 @@ pym_Frame Range:
 pym_Localization:
 - Set localization policy for all read nodes
 
+pym_Noop_Node_Apply_CS
+- Noop Node for applying input transform from connected node to other selected read nodes
+
 pym_Read Grid Pattern:
 - Rearange all selected Read Nodes into a Grid Pattern
 
