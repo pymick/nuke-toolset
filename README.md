@@ -17,3 +17,6 @@ pym_Search and Replace:
 
 pym_List Read Nodes:
 - List all read and write nodes file location drives
+
+pym_bake_camera_with_axes:
+- Bake world position of static camera to translation and rotation values
