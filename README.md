@@ -20,3 +20,6 @@ pym_List Read Nodes:
 
 pym_bake_camera_with_axes:
 - Bake world position of static camera to translation and rotation values
+
+pym_Wrap_it_Up:
+- WrapItUp - 2.1 by Max van Leeuwen - maxvanleeuwen.com/WrapItUp
