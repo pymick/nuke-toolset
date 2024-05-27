@@ -6,7 +6,7 @@ pym_Frame Range:
 pym_Localization:
 - Set localization policy for all read nodes
 
-pym_Noop_Node_Apply_CS
+pym_Noop_Node_Apply_CS (Copy Paste to Nuke)
 - Noop Node for applying input transform from connected node to other selected read nodes
 
 pym_Read Grid Pattern:
@@ -24,5 +24,5 @@ pym_bake_camera_with_axes:
 pym_Wrap_it_Up:
 - WrapItUp - 2.1 by Max van Leeuwen - maxvanleeuwen.com/WrapItUp
 
-pym_WorldSpaceConverter:
+pym_WorldSpaceConverter: (Copy Paste to Nuke)
 - Convert worldspace aware AVOs from various 3D render engines to native nuke worldspace
