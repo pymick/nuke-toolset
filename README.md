@@ -23,3 +23,6 @@ pym_bake_camera_with_axes:
 
 pym_Wrap_it_Up:
 - WrapItUp - 2.1 by Max van Leeuwen - maxvanleeuwen.com/WrapItUp
+
+pym_WorldSpaceConverter:
+- Convert worldspace aware AVOs from various 3D render engines to native nuke worldspace
