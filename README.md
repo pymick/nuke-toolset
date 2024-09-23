@@ -26,3 +26,6 @@ pym_Wrap_it_Up:
 
 pym_WorldSpaceConverter: (Copy Paste to Nuke)
 - Convert worldspace aware AVOs from various 3D render engines to native nuke worldspace
+
+pym_move_selected_nodes:
+- Move the selected nodes downwards in the node graph by 1000 units
